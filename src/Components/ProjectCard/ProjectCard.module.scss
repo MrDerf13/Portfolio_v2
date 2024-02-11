@@ -1,0 +1,27 @@
+.wholeCard {
+  display: flex;
+  flex-direction: column;
+  width: 90vw;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 30px;
+  justify-content: space-between;
+  background-color: rgb(249, 239, 228);
+  @media (min-width: 768px) {
+    width: 45vw;
+  }
+  @media (min-width: 1024px) {
+    width: 30vw;
+  }
+}
+
+.imgStyle {
+  object-fit: cover;
+  border-radius: 30px 30px 0 0;
+  padding: none;
+  height: auto;
+}
+
+.gitImg {
+  height: 50%;
+}

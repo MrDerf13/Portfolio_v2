@@ -1,0 +1,9 @@
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+  row-gap: 15px;
+  column-gap: 50px;
+  margin-bottom: 30px;
+  justify-content: center;
+  font-size: large;
+}
