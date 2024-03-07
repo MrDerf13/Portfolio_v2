@@ -8,11 +8,7 @@ const ProjectCard = ({ obj }) => {
       <p>{obj.description}</p>
       <div>
         <a href={obj.link}>
-          <img
-            src="src/assets/github.png"
-            alt="Github"
-            className={styles.gitImg}
-          />
+          <img src="github.png" alt="Github" className={styles.gitImg} />
         </a>
       </div>
     </article>
