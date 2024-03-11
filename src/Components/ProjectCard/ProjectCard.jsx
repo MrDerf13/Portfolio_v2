@@ -1,5 +1,5 @@
 import styles from "./ProjectCard.module.scss";
-import { github } from "../../assets/";
+import { github } from "../../assets/github.png";
 
 const ProjectCard = ({ obj }) => {
   return (
