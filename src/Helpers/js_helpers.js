@@ -7,7 +7,7 @@ export const skills = [
   { name: "javascript", img: "src/assets/javascript.png" },
   { name: "python", img: "src/assets/python.png" },
   { name: "react", img: "src/assets/react.png" },
-  { name: "sass", img: "src/assets/sass.png" },
+  { name: "sass", img: "src/assets/ass.png" },
   { name: "sql", img: "src/assets/sql.png" },
 ];
 
