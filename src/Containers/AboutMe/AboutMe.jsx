@@ -1,4 +1,3 @@
-import globalstyles from "../../App.module.scss";
 import Contact from "../Contact/Contact";
 import styles from "./AboutMe.module.scss";
 
@@ -23,7 +22,7 @@ const AboutMe = () => {
       </div>
       <Contact style={false} />
       <img
-        src="src\assets\fgprofilepic.jpg"
+        src="./src/assets/fgprofilepic.jpg"
         alt="fred"
         className={styles.imgClass}
       />

@@ -1,6 +1,6 @@
 export const skills = [
-  { name: "css", img: "./src/assets/css.png" },
-  { name: "firebase", img: "./src/assets/firebase.png" },
+  { name: "css", img: "./assets/css.png" },
+  { name: "firebase", img: "./assets/firebase.png" },
   { name: "git", img: "./src/assets/git.png" },
   { name: "html", img: "./src/assets/html.png" },
   { name: "java", img: "./src/assets/java.png" },

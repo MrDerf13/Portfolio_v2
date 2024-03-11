@@ -4,11 +4,6 @@ import Projects from "./Containers/Projects/Projects";
 import AboutMe from "./Containers/AboutMe/AboutMe";
 
 function App() {
-  // Nav
-  // Header
-  // Skills
-  // About Me
-  // Contact
   return (
     <>
       <AboutMe />
