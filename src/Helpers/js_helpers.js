@@ -1,14 +1,14 @@
 export const skills = [
-  { name: "css", img: "Portfolio_v2/src/assets/email.png" },
-  { name: "firebase", img: "Portfolio_v2/src/assets/firebase.png" },
-  { name: "git", img: "Portfolio_v2/src/assets/git.png" },
-  { name: "html", img: "Portfolio_v2/src/assets/html.png" },
-  { name: "java", img: "Portfolio_v2/src/assets/java.png" },
-  { name: "javascript", img: "Portfolio_v2/src/assets/javascript.png" },
-  { name: "python", img: "Portfolio_v2/src/assets/python.png" },
-  { name: "react", img: "Portfolio_v2/src/assets/react.png" },
-  { name: "sass", img: "Portfolio_v2/src/assets/sass.png" },
-  { name: "sql", img: "Portfolio_v2/src/assets/sql.png" },
+  { name: "css", img: "src/assets/email.png" },
+  { name: "firebase", img: "src/assets/firebase.png" },
+  { name: "git", img: "src/assets/git.png" },
+  { name: "html", img: "src/assets/html.png" },
+  { name: "java", img: "src/assets/java.png" },
+  { name: "javascript", img: "src/assets/javascript.png" },
+  { name: "python", img: "src/assets/python.png" },
+  { name: "react", img: "src/assets/react.png" },
+  { name: "sass", img: "src/assets/sass.png" },
+  { name: "sql", img: "src/assets/sql.png" },
 ];
 
 export const projects = [
