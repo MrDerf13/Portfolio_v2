@@ -2,7 +2,8 @@
   height: auto;
   width: 80vw;
   border-radius: 10px;
-  box-shadow: 5px 5px 10px black;
+  margin-top: 15px;
+  box-shadow: 5px 5px 10px #382d72;
   @media (min-width: 768px) {
     height: 30vh;
     width: auto;
@@ -11,6 +12,11 @@
 
 .textSection {
   width: 90vw;
+  background-color: #b7c2c6;
+  color: #382d72;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 2px 4px 16px #a080e1;
   @media (min-width: 768px) {
     width: 40vw;
   }
@@ -28,4 +34,8 @@
     flex-direction: row;
     width: 90vw;
   }
+}
+
+.test {
+  color: #382d72 #5c509c #a080e1 #b7c2c6 #e5ccf4;
 }

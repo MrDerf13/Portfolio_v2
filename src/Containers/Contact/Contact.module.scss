@@ -8,15 +8,17 @@
   }
   a {
     text-decoration: none;
-    color: black;
+    color: #382d72;
     font-size: larger;
     padding: 10px;
+    border-radius: 15px;
     &:visited {
       text-decoration: none;
     }
     &:hover {
       text-decoration: none;
-      background: rgb(102, 51, 153);
+      background: #5c509c;
+      color: #e5ccf4;
     }
   }
 }
@@ -34,15 +36,17 @@
   }
   a {
     text-decoration: none;
-    color: black;
+    color: #382d72;
     font-size: larger;
     padding: 10px;
+    border-radius: 15px;
     &:visited {
       text-decoration: none;
     }
     &:hover {
       text-decoration: none;
-      background: rgb(102, 51, 153);
+      background: #5c509c;
+      color: #e5ccf4;
     }
   }
 }

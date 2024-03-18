@@ -6,6 +6,11 @@
 }
 
 body {
-  background: linear-gradient(90deg, rgb(42, 52, 57, 0.5), rgb(134, 75, 143));
+  background: #e5ccf4;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 2px 3px 20px #382d72, 0 0 60px #a080e1 inset;
+}
+
+.test {
+  color: #382d72 #5c509c #a080e1 #b7c2c6 #e5ccf4;
 }
