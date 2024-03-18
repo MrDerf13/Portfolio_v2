@@ -1,5 +1,6 @@
 import Contact from "../Contact/Contact";
 import styles from "./AboutMe.module.scss";
+import FG from "../../assets/fgprofilepic.jpg";
 
 const AboutMe = () => {
   return (
@@ -21,11 +22,7 @@ const AboutMe = () => {
         </p>
       </div>
       <Contact style={false} />
-      <img
-        src="./src/assets/fgprofilepic.jpg"
-        alt="fred"
-        className={styles.imgClass}
-      />
+      <img src={FG} alt="fred" className={styles.imgClass} />
     </section>
   );
 };

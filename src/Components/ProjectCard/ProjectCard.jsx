@@ -1,4 +1,5 @@
 import styles from "./ProjectCard.module.scss";
+import GitHub from "../../assets/github.png";
 
 const ProjectCard = ({ obj }) => {
   return (
@@ -8,11 +9,7 @@ const ProjectCard = ({ obj }) => {
       <p>{obj.description}</p>
       <div>
         <a href={obj.link}>
-          <img
-            src="src/assets/github.png"
-            alt="Github"
-            className={styles.gitImg}
-          />
+          <img src={GitHub} alt="Github" className={styles.gitImg} />
         </a>
       </div>
     </article>

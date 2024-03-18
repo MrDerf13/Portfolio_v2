@@ -1,7 +1,7 @@
 import SkillCard from "../../Components/SkillCard/SkillCard";
 import styles from "./Skills.module.scss";
 import globalstyles from "../../App.module.scss";
-import { skills } from "../../Helpers/js_helpers";
+import { skills } from "../../assets/js_helpers.jsx";
 
 const Skills = () => {
   return (

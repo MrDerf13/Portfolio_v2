@@ -1,5 +1,5 @@
 import globalstyles from "../../App.module.scss";
-import { projects } from "../../Helpers/js_helpers";
+import { projects } from "../../assets/js_helpers.jsx";
 import ProjectCard from "../../Components/ProjectCard/ProjectCard";
 import styles from "./Projects.module.scss";
 
